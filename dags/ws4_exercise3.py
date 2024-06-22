@@ -7,8 +7,7 @@ with DAG(
     "exercise3_fan_in_dag",
     start_date=days_ago(1),
     schedule_interval="@once",
-    tags=["exercise"],
-    owner="datath"
+    tags=["exercise"]
 ) as dag:
 
     # Exercise3: Fan-in Pipeline

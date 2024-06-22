@@ -84,7 +84,7 @@ def merge_data(transaction_path, conversion_rate_path, output_path):
 def workshop4_pipeline():
     """
     # Exercise4: Final DAG
-    ใน exercise นี้จะนำโค้ดที่เคยเขียนไว้ใน workshop1 มาทำให้เป็น pipeline บน Airflow [ทบทวนได้ที่นี่](https://colab.research.google.com/drive/1LQDVS0ayxFKF_ln-mc4CqLeayxzUKqZP?authuser=1)
+    ใน exercise นี้จะนำโค้ดที่เคยเขียนไว้ใน workshop1 มาทำให้เป็น pipeline บน Airflow [ทบทวนได้ที่นี่](https://school.datath.com/courses/road-to-data-engineer-3-0/contents/6650d8d26e082)
     """
     
     # TODO: สร้าง task จาก function ด้านบน และใส่ parameter ให้ถูกต้อง
